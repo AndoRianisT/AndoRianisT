@@ -42,8 +42,3 @@
   <li>https://github.com/AndoRianisT/Full-0g-Da-Guide</li>
   <li>https://github.com/AndoRianisT/Side-Protocol-Node-Guide</li>
 </ul>
-
-<h2>Thank You!</h2>
-<p>
-  Thank you for visiting my GitHub profile. Stay tuned for more projects and contributions!
-</p>
