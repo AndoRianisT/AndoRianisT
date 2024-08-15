@@ -39,15 +39,9 @@
 
 <h3>Contributions</h3>
 <ul>
-  <li>Running validator nodes for various testnets.</li>
-  <li>Providing technical feedback and reporting issues to developers.</li>
-  <li>Engaging with the community and helping new validators get started.</li>
+  <li>https://github.com/AndoRianisT/Full-0g-Da-Guide</li>
+  <li>https://github.com/AndoRianisT/Side-Protocol-Node-Guide</li>
 </ul>
-
-<h2>Get in Touch</h2>
-<p>
-  If you're working on a blockchain project and would like to collaborate or if you have any questions about my work, feel free to reach out to me via GitHub or other social media platforms.
-</p>
 
 <h2>Thank You!</h2>
 <p>
