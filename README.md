@@ -25,16 +25,12 @@
   </thead>
   <tbody>
     <tr>
-      <td>Project A</td>
-      <td><a href="https://example.com" target="_blank">https://example.com</a></td>
+      <td><strong>Artela</strong></td>
+      <td>artvaloper1575dercpqzf2wn08gtgvq2dsmgjmlrf236j5ql</td>
     </tr>
     <tr>
-      <td>Project B</td>
-      <td><a href="https://example.com" target="_blank">https://example.com</a></td>
-    </tr>
-    <tr>
-      <td>Project C</td>
-      <td><a href="https://example.com" target="_blank">https://example.com</a></td>
+      <td><strong>CrossFi</strong></td>
+      <td>mxvaloper1yhw0vt5a4psaunglkvxlh03uczlvsn5gp64pqe</td>
     </tr>
   </tbody>
 </table>
