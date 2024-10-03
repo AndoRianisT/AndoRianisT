@@ -34,6 +34,18 @@
       <td><strong>CrossFi</strong></td>
       <td>mxvaloper1yhw0vt5a4psaunglkvxlh03uczlvsn5gp64pqe</td>
     </tr>
+     <tr>
+      <td><strong>Sunrise</strong></td>
+      <td>sunrisevaloper1y69p90rczwfnamrummf6k9ma5jq7nd2235ptm5</td>
+    </tr>
+       <tr>
+      <td><strong>Arkeo</strong></td>
+      <td>tarkeovaloper1hmu3a8sp2hcadspw59fh2pp5shev06lyewr9yd</td>
+    </tr>
+       <tr>
+      <td><strong>Union</strong></td>
+      <td>unionvaloper1cp26asvgn5n58agl99am3pf6ttxnw3egdq8mh4</td>
+    </tr>
   </tbody>
 </table>
 
@@ -41,4 +53,5 @@
 <ul>
   <li>https://github.com/AndoRianisT/Full-0g-Da-Guide</li>
   <li>https://github.com/AndoRianisT/Side-Protocol-Node-Guide</li>
+  <li>https://github.com/AndoRianisT/union-Running-the-Client-Binary</li>
 </ul>
